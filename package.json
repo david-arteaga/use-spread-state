@@ -1,0 +1,14 @@
+{
+  "name": "use-spread-state",
+  "version": "1.0.0",
+  "description": "A react hook to use a setState that spreads the previous state on the new state value",
+  "main": "index.js",
+  "repository": "https://github.com/david-arteaga/useSpreadState",
+  "author": "David Arteaga",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/react": "^16.8.8",
+    "typescript": "^3.3.3333"
+  }
+}
